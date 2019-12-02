@@ -1,1 +1,0 @@
-# kulkarohan.github.io

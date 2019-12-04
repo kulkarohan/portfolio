@@ -15,9 +15,8 @@ I'm an avid fan of both playing and watching basketball. Although I'm a die-hard
 Based off the Yeezy basketball shoe in-the-making, I sketched a low-top version similar to Kobe's shoe. The comfort of Boost with the fit of a sleek, 
 low-cut shoe would instantly be my favorite to rock on the court. 
 
-
-<img src="https://github.com/kulkarohan/kulkarohan.github.io/blob/master/moodboard/images/yeezy_basketball.jpg">
-<img src="https://github.com/kulkarohan/kulkarohan.github.io/blob/master/moodboard/images/sketch_yeezy_basketball_low.jpg">
+![yeezy_basketball](/images/yeezy_basketball.jpg)
+![sketch_yeezy_basketball](/images/sketch_yeezy_basketball_low.jpg)
 
 
 Another Yeezy shoe rumored to release is the Foam Runner. I like the cuts on the sides allowing breathing room even as a low-top. What if a high-top

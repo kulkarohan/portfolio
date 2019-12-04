@@ -12,8 +12,8 @@ If I could choose one company to help design basketball shoes for it would have 
 
 Based off the Yeezy basketball shoe in-the-making, here's a sketch from the side-view of a low-top version also inspired by Kobe's shoe. The comfort of Boost with the fit of a sleek, low-cut shoe would instantly be my favorite to rock on the court. 
 
-<img src="https://raw.githubusercontent.com/kulkarohan/kulkarohan.github.io/master/moodboard/images/yeezy_basketball.jpg" width="50%">
-<img src="https://raw.githubusercontent.com/kulkarohan/kulkarohan.github.io/master/moodboard/images/sketch_yeezy_basketball_low.jpg" width="50%">
+![](https://raw.githubusercontent.com/kulkarohan/kulkarohan.github.io/master/moodboard/images/yeezy_basketball.jpg) <!-- .element height="50%" width="50%" -->
+![](https://raw.githubusercontent.com/kulkarohan/kulkarohan.github.io/master/moodboard/images/sketch_yeezy_basketball_low.jpg) <!-- .element height="50%" width="50%" -->
 
 **Note**: This sketch was hand-drawn on 8x11 notebook paper, you can tell I'm an _absolute_ beginner, and was also the very first one I drew. I plan on updating this page with sketches more designs and different angles.
 

@@ -1,26 +1,21 @@
 # Mood Board
 
 ## About
-This page is for artistic thoughts, ideas, vibes, etc. I will update the page whenever I learn and grasp new topics. For now shoes are my main interest, so that is what
-will be featured. 
-
-**Note**: Sketches were hand-drawn on classic 8 x 11 notebook paper - you can tell I'm an _absolute_ beginner. I'm learning some technologies such
-as [Krita](https://krita.org/en/) for drawing and [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) for modeling which are interesting, but until
-I get more comfortable with those you're going to see the classic combination of pencil and paper. 
+This page is for to artistic thoughts, ideas, vibes, inspirations, etc. I will update the page whenever I learn and grasp new topics. For now shoes are my main interest, so that is what will be featured. 
 
 
-## Yeezy Sketches
+## Yeezy Basketball
 
-I'm an avid fan of both playing and watching basketball. Although I'm a die-hard Celtics fan, one of my favorite basketball shoes to play in was the Kobe 8.
-Based off the Yeezy basketball shoe in-the-making, I sketched a low-top version similar to Kobe's shoe. The comfort of Boost with the fit of a sleek, 
-low-cut shoe would instantly be my favorite to rock on the court. 
+If I could choose one category of shoes that excites me the most, it would have to be basketball. I'm an avid fan of both playing and watching basketball, and have been since I was a child. Although I'm a die-hard Celtics fan, one of my favorite basketball shoes to play in and look at was the Nike Kobe 8. 
 
-![yeezy_basketball](/images/yeezy_basketball.jpg =250x)
-![sketch_yeezy_basketball](/images/sketch_yeezy_basketball_low.jpg =250x)
+If I could choose one company to help design basketball shoes for it would have to be Yeezy. Not because of the hype, but because the focus is on the product. When I hand-sketch or use software to create, my focus is purely on maximizing the joy I get creating something out of nothing which also happens to look awesome. 
 
+Based off the Yeezy basketball shoe in-the-making, here's a sketch from the side-view of a low-top version also inspired by Kobe's shoe. The comfort of Boost with the fit of a sleek, low-cut shoe would instantly be my favorite to rock on the court. 
 
-Another Yeezy shoe rumored to release is the Foam Runner. I like the cuts on the sides allowing breathing room even as a low-top. What if a high-top
-could also be created?
+<img src="/images/yeezy_basketball.jpg" width="50%">
+<img src="/images/sketch_yeezy_basketball_low.jpg" width="50%">
 
-![foam_runner](/images/yeezy_foam_runners.jpg =250x)
-![sketch_foam_runner](/images/sketch_yeezy_foam_runners_high.jpg =250x)
+**Note**: This sketch was hand-drawn on 8x11 notebook paper, you can tell I'm an _absolute_ beginner, and was also the very first one I drew. I plan on updating this page with more sketches from different angles and different designs.  
+
+Also I've begun learning some technologies such
+as [Krita](https://krita.org/en/) for drawing and [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) for modeling, but until I get more comfortable with those I'm sticking to the classic combination of pencil and paper. 

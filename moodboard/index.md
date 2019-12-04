@@ -16,6 +16,7 @@ Based off the Yeezy basketball shoe in-the-making, I sketched a low-top version 
 low-cut shoe would instantly be my favorite to rock on the court. 
 
 ![Basketball](https://github.com/kulkarohan/kulkarohan.github.io/blob/master/moodboard/images/yeezy_basketball.jpg)
+<img src="https://github.com/kulkarohan/kulkarohan.github.io/blob/master/moodboard/images/yeezy_basketball.jpg">
 ![Basketball Sketch](https://github.com/kulkarohan/kulkarohan.github.io/blob/master/moodboard/images/sketch_yeezy_basketball_low.jpg)
 
 

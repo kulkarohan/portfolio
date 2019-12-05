@@ -19,3 +19,9 @@ Based off the Yeezy basketball shoe in-the-making, here's a sketch from the side
 
 I've begun learning some technologies such
 as [Krita](https://krita.org/en/) for drawing and [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview) for modeling, but until I get more comfortable with those I'm sticking to the classic combination of pencil and paper. 
+
+
+## Contemporary Art
+
+#### Takashi Murakami
+- 

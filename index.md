@@ -1,8 +1,6 @@
 # Rohan Kulkarni
 
-I use the internet to learn and data to solve problems. I studied Computer Science at [Drexel University](https://drexel.edu/) for 3 years prior to substituting my remaining time with the Data Science track at [Lambda School](https://lambdaschool.com/). I've become a better learner since leaving college. 
-
-I've done two Co-ops as a Cybersecurity Analyst @ [Day & Zimmermann](https://www.dayzim.com/) (2017) and Data Scientist @ [Verif-y Inc.](https://verif-y.com/) (2018) -- each 6 months. Currently looking for a full-time opportunity, feel free to reach out if you'd like to chat. 
+I use the internet to learn and data to solve problems. I studied Computer Science at [Drexel University](https://drexel.edu/) for 3 years and Data Science at [Lambda School](https://lambdaschool.com/) for 9 months. I've done two Co-ops as a Cybersecurity Analyst @ [Day & Zimmermann](https://www.dayzim.com/) (2017) and Data Scientist @ [Verif-y Inc.](https://verif-y.com/) (2018) -- each 6 months. Currently looking for a full-time opportunity, feel free to reach out if you'd like to chat. 
 
 ## Interests
 Some of my interests include data science, machine learning, cryptocurrency, cybersecurity, alternative education, basketball and hip-hop.
